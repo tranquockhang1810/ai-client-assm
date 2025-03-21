@@ -21,8 +21,8 @@ This is a React-based admin panel for managing products in an e-commerce applica
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/ecommerce-admin.git
-   cd ecommerce-admin
+   git clone https://github.com/tranquockhang1810/ai-client-assm.git
+   cd ai-client-assm
    ```
 
 2. Install dependencies:
